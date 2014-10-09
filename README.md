@@ -1,4 +1,4 @@
-personal
+Personal
 =============
 
-Latihan Buat Web Sendiri
+Latihan
