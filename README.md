@@ -1,4 +1,4 @@
-personal-blog
+personal
 =============
 
 Latihan Buat Web Sendiri
